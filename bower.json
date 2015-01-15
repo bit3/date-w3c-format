@@ -1,0 +1,19 @@
+{
+  "name": "date-w3c-format",
+  "version": "1.0.0",
+  "description": "Add Date.toW3CString() method.",
+  "keywords": [
+    "Date"
+  ],
+  "homepage": "https://github.com/bit3/date-w3c-format",
+  "license": "MIT",
+  "authors": [
+    "Tristan Lins <tristan@lins.io> (https://tristan.lins.io)"
+  ],
+  "main": "Date.toW3CString.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
