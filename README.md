@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bit3/date-w3c-format.svg?branch=master)](https://travis-ci.org/bit3/date-w3c-format)
+
 # Date.toW3CString
 
 Add `Date.toW3CString` method to the `Date` class.
