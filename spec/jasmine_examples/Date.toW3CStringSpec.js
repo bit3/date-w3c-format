@@ -1,4 +1,5 @@
 describe("Date.toW3CString", function() {
+    process.env.TZ = 'Europe/Berlin';
     require('../../Date.toW3CString.js');
 
     it("function should exists", function() {
